@@ -31,7 +31,7 @@ Contributing
 
 # Technologies Used
 
-Programming Language: Python (Django or Flask for backend services)
+Programming Language: Python (Django for backend services)
 
 Cloud Provider: AWS
 
